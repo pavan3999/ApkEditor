@@ -4,6 +4,8 @@
 
    Редактирование Android приложений на мобильном устройстве
 
+   Проект находится в разработке, буду писать код в свободное время от основной работы. Код ApkEditor Pro(com.gmail.heagoo.apkeditor/pro) устарел. Поэтому было решено писать проект с нуля.
+
 ## Community
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?style=flat-square)](https://t.me/apkeditor2021)
