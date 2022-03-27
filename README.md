@@ -8,7 +8,7 @@
 
 ## Community
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?style=flat-square)](https://t.me/apkeditor2021)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?style=flat-square)](https://t.me/apkeditorproofficial)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?style=flat-square)](https://t.me/dexprotect)
 
 ## GNU GPL 3.0 Licence
