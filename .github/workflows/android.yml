@@ -24,7 +24,7 @@ jobs:
         cache: gradle
 
     - name: Build with Gradle
-      run: ./gradlew assembleRelease --stacktrace
+      run: ./gradle assembleRelease --stacktrace
 
       
     - name: Sign APK
